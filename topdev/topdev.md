@@ -1,7 +1,7 @@
 # Đề tài: Ứng dụng phân tích dữ liệu trên nền tảng tuyển dụng các ngành nghề thuộc lĩnh vực công nghệ thông tin (TopDev) và rút ra những insights có ích cho những đối tượng liên quan.
 
 ## Lý do chọn:
-- TopDev là nền tảng tuyển dụng lớn trong lĩnh vực công nghệ thông tin, nơi thu thập nhiều dữ liệu từ các nhà tuyển dụng và ứng viên. Việc phân tích dữ liệu từ nền tảng này sẽ cung cấp các insights quan trọng về xu hướng tuyển dụng, nhu cầu kỹ năng và định hướng nghề nghiệp, giúp các bên liên quan đưa ra quyết định phù hợp.
+- TopDev là nền tảng tuyển dụng lớn trong lĩnh vực công nghệ thông tin, nơi thu thập nhiều dữ liệu từ các nhà tuyển dụng và ứng viên. Việc phân tích dữ liệu từ nền tảng này sẽ cung cấp các insights quan trọng về xu hướng tuyển dụng, nhu cầu kỹ năng và định hướng nghề nghiệp, giúp các bên liên quan đưa ra quyết định phù hợp cho mình.
 
 ## Nguồn dữ liệu:
 - Dữ liệu sẽ được thu thập từ nền tảng TopDev.vn.
